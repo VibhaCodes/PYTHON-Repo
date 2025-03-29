@@ -3,7 +3,7 @@ This is a simple GUI-based calculator built using the `tkinter` library in Pytho
 
 ## Screenshot
 
-![Calculator](Projects/images/calculator.png)
+![Calculator](Projects/images/Calculator.png)
 
 #### Features:
 - **Responsive User Interface**: Built with `tkinter`, the interface is user-friendly and responsive.
