@@ -1,6 +1,10 @@
 ### Simple Calculator
 This is a simple GUI-based calculator built using the `tkinter` library in Python. The calculator allows basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
+## Screenshot
+
+![Calculator](Projects/images/calculator.png)
+
 #### Features:
 - **Responsive User Interface**: Built with `tkinter`, the interface is user-friendly and responsive.
 - **Simple Arithmetic Operations**: Supports basic operations like addition, subtraction, multiplication, and division.
